@@ -86,14 +86,13 @@ Integrates a smart **AI chatbot** for:
 
 > Modular and scalable technologies power the platform
 
-| Layer              | Technologies Used                      |
-| ------------------ | -------------------------------------- |
-| **Frontend**       | React.js / Next.js, TailwindCSS        |
-| **Backend**        | Node.js / Express.js / Django          |
-| **Database**       | MongoDB / PostgreSQL                   |
-| **AI Layer**       | OpenAI API / Dialogflow / NLP pipeline |
-| **Authentication** | JWT / OAuth2                           |
-| **Deployment**     | Docker, GitHub Actions, Netlify/Vercel |
+| Layer         | Technologies Used               |
+| ------------- | ------------------------------- |
+| **Frontend**  | HTML / TailwindCSS / JavaScript |
+| **Backend**   | Django                          |
+| **Database**  | MySQL                           |
+| **AI Layer**  | Scikit-learn                    |
+| **Dashboard** | Numpy/Pandas/Matplotlib/Seaborn |
 
 ---
 
