@@ -1,10 +1,5 @@
 # 🎓 Academix – AI-powered E-Learning Platform
 
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/academix)
-![License](https://img.shields.io/github/license/yourusername/academix)
-![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
-![Made with ❤️](https://img.shields.io/badge/made%20with-%E2%9D%A4-red)
-
 Academix is a powerful and feature-rich **AI-powered e-learning platform** that enables seamless learning, teaching, and collaboration for students and instructors. It supports real-time interaction, smart analytics, assessments, and much more.
 
 ---
